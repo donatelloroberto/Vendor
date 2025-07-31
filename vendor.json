@@ -1,0 +1,6 @@
+{
+  "name": "Scraped Streams V2",
+  "type": "external",
+  "source": "https://raw.githubusercontent.com/donatelloroberto/Vendor/main/syncler_provider.json",
+  "cache": false
+}
