@@ -1,6 +1,6 @@
 {
   "name": "Scraped Streams V2",
   "type": "external",
-  "source": "https://gist.githubusercontent.com/donatelloroberto/12f3676a0fcc0a5fa6984ebece7aeecf/raw/a900e2aa32bb23d7c12854f61d4dce5a3f8adba3/provider.json",
+  "source": "https://raw.githubusercontent.com/donatelloroberto/Vendor/main/syncler_provider.json",
   "cache": false
 }
